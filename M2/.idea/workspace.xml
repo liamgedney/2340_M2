@@ -10,6 +10,7 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/gatech/oad/antlab/pkg1/AntLabMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/gatech/oad/antlab/pkg1/AntLabMain.java" afterDir="false" />
 >>>>>>> aj
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/gatech/oad/antlab/person/Person5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/gatech/oad/antlab/person/Person5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -147,6 +148,11 @@
         <option value="$PROJECT_DIR$/src/main/java/edu/gatech/oad/antlab/pkg1/AntLabMain.java" />
       </list>
     </option>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="31" />
+    <option name="y" value="42" />
+    <option name="width" value="1232" />
+    <option name="height" value="709" />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
@@ -265,7 +271,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="739000" />
+    <option name="totallyTimeSpent" value="1093000" />
   </component>
   <component name="ToolWindowManager">
 <<<<<<< HEAD
