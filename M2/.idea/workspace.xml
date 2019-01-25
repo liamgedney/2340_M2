@@ -4,6 +4,7 @@
   <component name="ChangeListManager">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="a1f3a0d1-150f-4d62-a084-f704054474a2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/gatech/oad/antlab/person/Person3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/gatech/oad/antlab/person/Person3.java" afterDir="false" />
 =======
@@ -18,6 +19,9 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/gatech/oad/antlab/person/Person1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/gatech/oad/antlab/person/Person1.java" afterDir="false" />
 >>>>>>> liam
     </list>
+=======
+    <list default="true" id="a1f3a0d1-150f-4d62-a084-f704054474a2" name="Default Changelist" comment="" />
+>>>>>>> justin
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +35,7 @@
     <session id="-1820063139">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
 =======
     <session id="-1018208278">
@@ -121,6 +126,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/gatech/oad/antlab/person/Person3.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="431">
               <caret line="46" column="41" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
 =======
@@ -140,6 +146,10 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="576">
               <caret line="72" column="51" selection-start-line="72" selection-start-column="51" selection-end-line="72" selection-end-column="51" />
+=======
+            <state>
+              <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+>>>>>>> justin
             </state>
           </provider>
         </entry>
@@ -530,8 +540,8 @@
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/gatech/oad/antlab/person/Person3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="46" column="41" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
+        <state>
+          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
         </state>
       </provider>
     </entry>
