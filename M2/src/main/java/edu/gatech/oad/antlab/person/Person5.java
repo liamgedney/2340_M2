@@ -30,18 +30,10 @@ public class Person5 {
 	 * @return the modified string
 	 */
 	private String calc(String input) {
-<<<<<<< HEAD
-        String word = input;
-        word = input.substring(2);
-        word = word + input.substring(0,2);
-        return word;
-	  return null;
-=======
 		String word = input;
 		word = input.substring(2);
 		word = word + input.substring(0,2);
 		return word;
->>>>>>> Jenny
 	}
 	/**
 	 * Return a string rep of this object
