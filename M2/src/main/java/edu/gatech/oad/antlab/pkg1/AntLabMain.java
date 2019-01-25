@@ -76,8 +76,9 @@ import edu.gatech.oad.antlab.pkg2.*;
                   Person5 p5 = new Person5("Jenny");
                   toPrint += p5.toString("jguzdial6");
 
+		System.out.println(toPrint);
 
-
+    
     }
 
 
@@ -87,20 +88,13 @@ import edu.gatech.oad.antlab.pkg2.*;
      public static void main(String[] args) {
 
         new AntLabMain().printOutMessage();
-<<<<<<< HEAD
-
+	
      }
 
-
-
-
+ 
+ 
+ 
+ 
  }
-=======
         
-     } 
     
-    
-    
-    
- } 
->>>>>>> Liam
