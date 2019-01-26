@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-/*TODO:
-compileJava      compiles and builds the project
-compileTest      compiles the unit tests for the project
-javadoc          creates the html documentation for the project
-clean            removes all the files created by this project
-jar              creates the executable jar file for this project
-*/
-=======
 defaultTasks 'jar'
 
 apply plugin: 'java'
@@ -28,4 +19,3 @@ dependencies {
 clean {
     delete '/build'
 }
->>>>>>> Liam
