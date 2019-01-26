@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //Set a default task, so if you don't provide any, these will be executed.
 defaultTasks   'jar'
 
@@ -20,6 +21,19 @@ jar  {
     manifest {
         attributes ("Main-Class" : "edu.gatech.oad.antlab.pkg1.AntLabMain" ,
             'Class-Path' : '../../lib/resources.jar')
+=======
+defaultTasks 'jar'
+
+apply plugin: 'java'
+    compileJava {
+        sourceCompatibility = '1.8'
+    }
+
+jar  {
+    manifest {
+        attributes ('Main-Class' : 'edu.gatech.oad.antlab.pkg1.AntLabMain' ,
+            'Class-Path' : 'lib/resources.jar')
+>>>>>>> master
     }
 }
 
@@ -27,7 +41,13 @@ dependencies {
     compile files('lib/resources.jar')
 }
 
+<<<<<<< HEAD
 //setup a location for repositories of any libraries that need to be downloaded
 repositories {
 }
 
+=======
+clean {
+    delete '/build'
+}
+>>>>>>> master
