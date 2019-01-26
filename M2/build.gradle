@@ -12,20 +12,19 @@ defaultTasks   'jar'
 //also available is check which will compile and run the tests
 apply plugin: 'java'
 
+version = '1.0'
+
 
 //Define the contents of the jar file
 jar  {
     manifest {
-        attributes ('Main-Class' : 'AntLabMain' ,
-            'Class-Path' : 'M2.src.main.java.edu.gatech.oad.antlab.pkg1')
+        attributes ("Main-Class" : "edu.gatech.oad.antlab.pkg1.AntLabMain" ,
+            'Class-Path' : '../../lib/resources.jar')
     }
-
-    //destinationDir = file('.')
-    //archiveName = 'hello.jar'
 }
 
 dependencies {
-    compile files('build/libs/m2.jar')
+    compile files('lib/resources.jar')
 }
 
 //setup a location for repositories of any libraries that need to be downloaded
