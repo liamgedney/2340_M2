@@ -33,9 +33,12 @@ public class Person4 {
       //Person 4 put your implementation here
       char[] arr = new char[input.length()];
       for (int i = 0; i < input.length(); i++) {
-        arr[i] = input.charAt(i) + 1;
+        char bit = input.charAt(i);
+        bit += 1;
+        arr[i] = bit;
       }
-      return String(arr);
+      String out = new String(arr);
+      return out;
     }
     
     /**
