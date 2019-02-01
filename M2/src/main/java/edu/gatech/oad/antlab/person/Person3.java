@@ -44,7 +44,7 @@ public class Person3 {
 	private String calc(String input) {
 	  char[] charArr = input.toCharArray();
 	  String myString = "";
-		for (int i = charArr.length; i >= 0; i--) {
+		for (int i = charArr.length - 1; i >= 0; i--) {
 			myString += charArr[i];
 		}
 	  return myString;
